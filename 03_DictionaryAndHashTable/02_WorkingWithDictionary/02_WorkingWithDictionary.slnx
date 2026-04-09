@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../03_TryGetValue/03_TryGetValue.csproj" />
+  <Project Path="../03_UtilizingLinqWithDictionaries/03_UtilizingLinqWithDictionaries.csproj" />
+  <Project Path="../04_GroupByAndLinqChaining/04_GroupByAndLinqChaining.csproj" />
+  <Project Path="02_WorkingWithDictionary.csproj" />
+</Solution>
