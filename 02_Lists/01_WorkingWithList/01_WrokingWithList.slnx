@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../02_InsertingElements/02_InsertingElements.csproj" Id="abc5276e-e133-41bc-a175-cd3c3829c5f2" />
+  <Project Path="../03_RemoveItems/03_RemoveItems.csproj" Id="65d28c4f-25cc-49ba-bc65-1882bcb82458" />
+  <Project Path="../AggregatingDataUsingLinq/04_AggregatingDataUsingLinq.csproj" Id="07f0e008-84ec-4706-848e-848adfd5a868" />
+  <Project Path="../FilteringDataWithLinq/05_FilteringDataWithLinq.csproj" Id="9b0eabf8-2549-4fe3-95ea-58930110e10d" />
+  <Project Path="01_WorkingWithList.csproj" Id="12d089e2-2d4c-4ce7-b3d0-e034ec7da366" />
+</Solution>
