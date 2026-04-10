@@ -1,0 +1,16 @@
+<Solution>
+  <Project Path="../02_CheckingForExistanceInHashSet/02_CheckingForExistenceInHashSet.csproj" />
+  <Project Path="../03_RemoveItemsFromHashSet/03_RemoveItemsFromHashSet.csproj" />
+  <Project Path="../04_RemoveDuplicates/04_RemoveDuplicates.csproj" />
+  <Project Path="../05_UserHashSetWithLinq1/05_UseHashSetWithLinq1.csproj" />
+  <Project Path="../06_UseHashSetWithLinq2/06_UseHashSetWithLinq2.csproj" />
+  <Project Path="../07_UnionOperation/07_UnionOperation.csproj" />
+  <Project Path="../08_IntersectOperation/08_IntersectOperation.csproj" />
+  <Project Path="../09_DifferenceOperation/09_DifferenceOperation.csproj" />
+  <Project Path="../10_SymmetricDifferenceOperation/10_SymmetricDifferenceOperation.csproj" />
+  <Project Path="../11_SetEquals/11_SetEquals.csproj" />
+  <Project Path="../12_IsSubsetOf/12_IsSubsetOf.csproj" />
+  <Project Path="../13_IsSupersetOf/13_IsSupersetOf.csproj" />
+  <Project Path="../14_Overlaps/14_Overlaps.csproj" />
+  <Project Path="01_WorkingWithHashSet.csproj" />
+</Solution>
