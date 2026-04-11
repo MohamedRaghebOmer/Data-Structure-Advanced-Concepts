@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../02_LinqWithSortedList/02_LinqWithSortedList.csproj" />
+  <Project Path="../03_AdvancedLinqOperations_GroupBy/03_AdvancedLinqOperations_GroupBy.csproj" />
+  <Project Path="../04_ComplexObjectOperationsUsingLinq/04_ComplexObjectOperationsUsingLinq.csproj" />
+  <Project Path="01_WorkingWithSortedList.csproj" />
+</Solution>
