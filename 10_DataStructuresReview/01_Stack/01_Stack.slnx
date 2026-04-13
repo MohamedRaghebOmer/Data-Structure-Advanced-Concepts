@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../02_Queue/02_Queue.csproj" />
+  <Project Path="../03_LinkedList/03_LinkedList.csproj" />
+  <Project Path="../04_Array/04_Array.csproj" />
+  <Project Path="01_Stack.csproj" />
+</Solution>
