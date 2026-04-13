@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../02_SortedSetWithLinq_1/02_SortedSetWithLinq_1.csproj" />
+  <Project Path="../03_SortedSetWithLinq_2/03_SortedSetWithLinq_2.csproj" />
+  <Project Path="../04_SortedSetWithLinq_3/04_SortedSetWithLinq_3.csproj" />
+  <Project Path="../05_SortedSetWithLinq_4/05_SortedSetWithLinq_4.csproj" />
+  <Project Path="01_WorkingWithSortedSet.csproj" />
+</Solution>
