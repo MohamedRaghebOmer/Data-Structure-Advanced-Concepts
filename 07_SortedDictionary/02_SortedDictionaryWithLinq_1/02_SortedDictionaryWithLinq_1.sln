@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11626.88 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SortedDictionaryWithLinq_1", "02_SortedDictionaryWithLinq_1.csproj", "{A1D9E72B-5A39-4E1C-9D5D-1FD4499B44F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D9E72B-5A39-4E1C-9D5D-1FD4499B44F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D9E72B-5A39-4E1C-9D5D-1FD4499B44F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D9E72B-5A39-4E1C-9D5D-1FD4499B44F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D9E72B-5A39-4E1C-9D5D-1FD4499B44F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB41215A-6B7C-4A17-8FB9-E8E68DF1C4B0}
+	EndGlobalSection
+EndGlobal
