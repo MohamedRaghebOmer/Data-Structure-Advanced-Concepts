@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11626.88 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_BitArrayCopyAndIteration", "03_BitArrayCopyAndIteration.csproj", "{067D616B-739D-4EE8-A13B-8BA000349CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067D616B-739D-4EE8-A13B-8BA000349CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067D616B-739D-4EE8-A13B-8BA000349CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067D616B-739D-4EE8-A13B-8BA000349CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067D616B-739D-4EE8-A13B-8BA000349CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A99AB1F-F60C-42F8-BE9C-622BD841FFAD}
+	EndGlobalSection
+EndGlobal

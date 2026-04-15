@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11626.88 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_BitArrayPermissionSystem", "04_BitArrayPermissionSystem.csproj", "{AA27F034-D098-48ED-B3DA-9ACF33B21C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA27F034-D098-48ED-B3DA-9ACF33B21C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA27F034-D098-48ED-B3DA-9ACF33B21C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA27F034-D098-48ED-B3DA-9ACF33B21C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA27F034-D098-48ED-B3DA-9ACF33B21C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E248CE01-EC25-47E7-9C38-F8F728EFA57C}
+	EndGlobalSection
+EndGlobal

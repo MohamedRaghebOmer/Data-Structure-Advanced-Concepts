@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
 VisualStudioVersion = 18.4.11626.88 stable
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_LinqWithTuples", "02_LinqWithTuples.csproj", "{9457E503-2CC7-4DAC-A07C-986AF3034AD1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_CustomCollection", "..\..\14_IEnumerable\01_CutomCollection\01_CustomCollection.csproj", "{0DAFC1BB-2C1F-4BC5-B756-C4D82DAD590A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_CustomCollection", "01_CustomCollection.csproj", "{0DAFC1BB-2C1F-4BC5-B756-C4D82DAD590A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9457E503-2CC7-4DAC-A07C-986AF3034AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9457E503-2CC7-4DAC-A07C-986AF3034AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9457E503-2CC7-4DAC-A07C-986AF3034AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9457E503-2CC7-4DAC-A07C-986AF3034AD1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0DAFC1BB-2C1F-4BC5-B756-C4D82DAD590A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0DAFC1BB-2C1F-4BC5-B756-C4D82DAD590A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DAFC1BB-2C1F-4BC5-B756-C4D82DAD590A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3EBABB17-9D67-40AF-852E-2252934AF2DD}
+		SolutionGuid = {769FAEA8-2EA3-47D5-BDF8-115EE2BC18E3}
 	EndGlobalSection
 EndGlobal

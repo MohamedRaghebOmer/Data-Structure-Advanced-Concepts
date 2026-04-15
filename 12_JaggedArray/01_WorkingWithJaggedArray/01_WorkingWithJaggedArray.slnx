@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../../13_Tuples/01_WorkingWithTuples/01_WorkingWithTuples.csproj" />
+  <Project Path="../02_ListOfTuples/02_LinqWithTuples.csproj" />
   <Project Path="01_WorkingWithJaggedArray.csproj" />
 </Solution>

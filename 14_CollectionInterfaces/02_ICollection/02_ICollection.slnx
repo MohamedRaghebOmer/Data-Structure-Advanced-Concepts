@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../03_IList/03_IList.csproj" />
+  <Project Path="../04_IDictionary/04_IDictionary.csproj" />
+  <Project Path="../05_ISet/05_ISet.csproj" />
+  <Project Path="../06_IComparable/06_IComparable.csproj" />
+  <Project Path="02_ICollection.csproj" />
+</Solution>
