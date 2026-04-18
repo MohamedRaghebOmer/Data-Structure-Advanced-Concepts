@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../02_FamilyTree/02_FamilyTree.csproj" />
+  <Project Path="01_CompanyTree.csproj" />
+</Solution>

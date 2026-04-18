@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../02_PreorderTreeTraversalImplementation/02_PreorderTreeTraversalImplementation.csproj" />
+  <Project Path="../03_PostorderTreeTraversalImplementation/03_PostorderTreeTraversalImplementation.csproj" />
+  <Project Path="01_BinaryTreeImplementation.csproj" />
+</Solution>
