@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../../16_Graph/01_GraphImplementation_Matrix/01_GraphImplementation_Matrix.csproj" />
+  <Project Path="04_InorderTreeTraversalImplementation.csproj" />
+</Solution>
