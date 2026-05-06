@@ -1,4 +1,4 @@
-# From Practice to Mastery: Advanced Data Structures in C#
+# Advanced Data Structures Mastery in C#
 
 This repository represents a focused learning journey built on one principle: **real understanding comes from real practice**.
 
